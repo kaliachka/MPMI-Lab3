@@ -19,7 +19,7 @@ optimizer=tf.optimizers.Adam(lr=0.1)
 
 **График функции потерь:**
 
-![4](https://user-images.githubusercontent.com/59210216/111885449-f4ec4c00-89d8-11eb-92d8-d35f3d9826f6.jpg)
+![image](https://user-images.githubusercontent.com/59210216/111885967-f703da00-89db-11eb-8298-d80e078f7739.png)
 ![2](https://user-images.githubusercontent.com/59210216/111885441-ec941100-89d8-11eb-8bf8-84415e43e67b.jpg)
 ![3](https://user-images.githubusercontent.com/59210216/111885443-ee5dd480-89d8-11eb-94cc-605bb9ebb5ab.jpg)
 
