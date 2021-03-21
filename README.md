@@ -47,5 +47,12 @@ optimizer=tf.optimizers.Adam(lr=0.1)
 3.Реализовать и применить в обучении политики изменения темпа обучения, а также определить оптимальные параметры для политики экспоненциального затухания (Exponential Decay):
 ---------
 
+**График метрики точности:**
+![3-1](https://user-images.githubusercontent.com/59210216/111903687-8fd63c00-8a54-11eb-919a-57e6c99e7409.jpg)
+![3-2](https://user-images.githubusercontent.com/59210216/111903689-8fd63c00-8a54-11eb-98b0-37d10269ad17.jpg)
 
+**График функции потерь:**
+
+![3-3](https://user-images.githubusercontent.com/59210216/111903683-8ea50f00-8a54-11eb-8ff8-05ab9d1a0035.jpg)
+![3-4](https://user-images.githubusercontent.com/59210216/111903686-8f3da580-8a54-11eb-8c7c-b0b749e2e1f1.jpg)
 
