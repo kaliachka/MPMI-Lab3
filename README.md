@@ -40,3 +40,5 @@ optimizer=tf.optimizers.Adam(lr=0.1)
 ![2-4](https://user-images.githubusercontent.com/59210216/111902148-fb1c1000-8a4c-11eb-8503-702281aa47e3.jpg)
 ![2-3](https://user-images.githubusercontent.com/59210216/111902147-fa837980-8a4c-11eb-8cb0-141fc1a553a3.jpg)
 
+### Анализ полученных результатов:
+В данной части лабораторной работы использовались параметры drop = 0.4 epochs_drop = 3.0 
