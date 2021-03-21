@@ -31,10 +31,11 @@ optimizer=tf.optimizers.Adam(lr=0.1)
 
 **График метрики точности:**
 
-![2-1](https://user-images.githubusercontent.com/59210216/111902149-fb1c1000-8a4c-11eb-8b12-350ca2ba0b53.jpg)
 ![2-2](https://user-images.githubusercontent.com/59210216/111902146-f9eae300-8a4c-11eb-8786-f508b5f47beb.jpg)
+![2-1](https://user-images.githubusercontent.com/59210216/111902149-fb1c1000-8a4c-11eb-8b12-350ca2ba0b53.jpg)
 
 **График функции потерь:**
 
-![2-3](https://user-images.githubusercontent.com/59210216/111902147-fa837980-8a4c-11eb-8cb0-141fc1a553a3.jpg)
 ![2-4](https://user-images.githubusercontent.com/59210216/111902148-fb1c1000-8a4c-11eb-8503-702281aa47e3.jpg)
+![2-3](https://user-images.githubusercontent.com/59210216/111902147-fa837980-8a4c-11eb-8cb0-141fc1a553a3.jpg)
+
